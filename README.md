@@ -1,2 +1,2 @@
 # cpp-practice
-This is my cpp practice files repository
+This is my cpp practice files repository.
